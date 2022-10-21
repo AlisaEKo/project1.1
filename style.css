@@ -53,3 +53,9 @@ footer {
   background-color: rgb(132, 132, 132);
   margin: 20px 50px;
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;;
+}
