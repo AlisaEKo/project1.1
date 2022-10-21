@@ -9,7 +9,7 @@
   margin: 0 auto;
   background-position: center;
   background-size: contain;
-  background-image: url('/images/facebook_cover.jpg');
+  background-image: url('/static/facebook_cover.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover; 
